@@ -17,3 +17,5 @@ Few of the verification methods (e.g. scipy optimize) were commented out to make
 You can uncomment them to see if they work. 
 
 The language used was Python 3. As for hardware, I used Spyder on an Imperial Computer (mostly). 
+
+WARNING: The codes and the project report are mine. They are only for educational purposes. Please refer to them at your own risk. Irresponsibly copying the work can result in severe plagiarism allegations by your institution. I am not responsible for such action. 
