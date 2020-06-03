@@ -1,5 +1,4 @@
 Name: SUHASAN KANAGASABAPATHY
-CID: 01338402
 
 COMPUTATIONAL PHYSICS PROJECT 2019
 Topic: A log-likelihood fit for extracting neutrino oscillation parameters
